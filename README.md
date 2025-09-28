@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center"> 
+  <img src="https://i.imgur.com/tlV10a9.gif" alt="Welcome" style="max-width: 700px; width: 100%; height: auto;" />
+</div>
 
-<!--
-**Rawan7x/Rawan7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center"> Passionate about technology, coding, and continuous learning </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br> 
+
+##  About Me 🌸   
+✨ Exploring new technologies and building practical web apps.  
+🚀 Always curious, always learning.  
+🎯 My goal is to grow as a **Full-Stack Developer** and create projects that make an impact.
+
+
+## 🛠️ Languages & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=E34F26) 
+![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=1572B6) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&logoColor=7952B3) 
+![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=F24E1E)
+![jQuery](https://img.shields.io/badge/jQuery-000000?logo=jquery&logoColor=0769AD)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)  
+
+
+![PHP](https://img.shields.io/badge/PHP-000000?logo=php&logoColor=777BB4) 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?logo=codeigniter&logoColor=EF4223) 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20"> ![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=007396)
+![Composer](https://img.shields.io/badge/Composer-000000?logo=composer&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=FFFFFF)
+![Brave](https://img.shields.io/badge/Brave-000000?style=flat-square&logo=brave&logoColor=FB542B)
+
+![Oracle](https://img.shields.io/badge/Oracle-000000?logo=oracle)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-000000?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=4479A1)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000000?logo=phpmyadmin&logoColor=6C78AF)
+
+
+
+---
+## 📫 Connect with Me ##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rawan-albaqami-740538224/) [![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=EA4335)](mailto:RawanAlBaqami@outlook.com)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawan7x&show_icons=true&theme=tokyonight" alt="Rawan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan7x&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+</p>
+
+
