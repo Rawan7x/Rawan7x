@@ -27,7 +27,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-000000?logo=php&logoColor=777BB4) 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?logo=codeigniter&logoColor=EF4223) 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20"> ![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=007396)
 ![Composer](https://img.shields.io/badge/Composer-000000?logo=composer&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032) 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=FFFFFF)
